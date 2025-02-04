@@ -1,6 +1,6 @@
 # NFL Kaggle Project Description
 
-This project if based on Kaggle's ["NFL Big Data Bowl 2025"](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025).
+This project is based on Kaggle's ["NFL Big Data Bowl 2025"](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025).
 
 ## Project Description from Kaggle
 The National Football League (NFL) is back with another Big Data Bowl, where contestants use Next Gen Stats player tracking data to generate actionable, creative, and novel stats. Previous iterations have analyzed running backs, defensive backs, special teams, pass rush plays, and tackling, and have generated metrics that have been used on television and by NFL teams.
