@@ -169,14 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-/path/to/project/directory/
-|- notebooks/
-   |- NFL_Players.ipynb
-   |- NFL_Home_Advantage_Test.ipynb
-   |- prototype-notebook.ipynb
-   |- archive/
-	  |- no-longer-useful.ipynb
-   |- figures/
-
-
