@@ -28,12 +28,3 @@ matplot
 sklearn
 
 ##
-
-/path/to/project/directory/
-|- notebooks/
-   |- 01-first-logical-notebook.ipynb
-   |- 02-second-logical-notebook.ipynb
-   |- prototype-notebook.ipynb
-   |- archive/
-	  |- no-longer-useful.ipynb
-   |- figures/
