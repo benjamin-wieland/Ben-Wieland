@@ -172,8 +172,8 @@ cython_debug/
 
 /path/to/project/directory/
 |- notebooks/
-   |- 01-first-logical-notebook.ipynb
-   |- 02-second-logical-notebook.ipynb
+   |- NFL_Players.ipynb
+   |- NFL_Home_Advantage_Test.ipynb
    |- prototype-notebook.ipynb
    |- archive/
 	  |- no-longer-useful.ipynb
