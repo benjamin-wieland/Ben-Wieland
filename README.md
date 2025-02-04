@@ -1,4 +1,4 @@
-# Ben-Wieland
+# NFL-Kaggle_Project
 ##
 
 Hello, this is my first project I have released to git. This files used on this project are from Kaggle on the "NFL Big Data Bowl 2025".
